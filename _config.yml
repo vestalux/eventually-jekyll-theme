@@ -1,7 +1,8 @@
 # Site settings
 title: RUFTEX
 email: hello@sufnitextil.eu
-description: Workwear for ROUGH environments.
+description-en: Workwear for ROUGH environments.
+mailing-en: Subscribe to our mailinglist
 baseurl: "/ruftex" # the subpath of your site, e.g. /blog
 url: "https://vestalux.github.io" # the base hostname & protocol for your site
 

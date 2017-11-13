@@ -2,7 +2,9 @@
 title: RUFTEX
 email: hello@sufnitextil.eu
 description-en: Workwear for ROUGH environments.
+description-hu: Munkaruha a KEMÉNY helyekre.
 mailing-en: Sign up for our mailinglist and receive updates about our launch date.
+mailing-hu: Iratkozzon fel hírlevelünkre és értesüljön az elsők között kollkciónkról.
 baseurl: "/ruftex" # the subpath of your site, e.g. /blog
 url: "https://vestalux.github.io" # the base hostname & protocol for your site
 

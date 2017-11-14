@@ -10,15 +10,15 @@ url: "http://ruftex.eu" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url:http://facebook.com/Ruftex-137042636884949/
 github_url:
 gitlab_url: 
 googleplus_url: 
-instagram_url:
+instagram_url:https://www.instagram.com/ruftexworkwear/
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/ruftexworkwear
 
 # Build settings
 markdown: kramdown

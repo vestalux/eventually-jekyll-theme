@@ -7,7 +7,7 @@
 <html>
 {% include head.html %}
 <body>
-    
+
 <!-- Header -->
 <header id="header">
 	<h1>
@@ -17,14 +17,18 @@
 	</span>
 	</h1>
 	<h2>{{ site.description-hu }}</h2>
+  <p></p>
+  <p>{{ site.catalog-hu }}</p>
 	<p></p>
 	<p>{{ site.mailing-hu }}</p>
 </header>
 
 <!-- Signup Form -->
 <form id="signup-form" method="post" action="https://formspree.io/hi@sufni.eu">
-	<input type="email" name="email" id="email" placeholder="Email cím" />
-	<input type="submit" value="Feliratkozás" />
+	<input type="text" name="name" id="name" placeholder="Név" />
+  <input type="email" name="email" id="email" placeholder="Email" />
+  <input type="longtext" name="message" id="message" placeholder="Üzenet" />
+	<input type="submit" value="Elküld" />
 </form>
 
 

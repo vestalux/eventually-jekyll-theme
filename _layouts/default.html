@@ -8,9 +8,6 @@
 {% include head.html %}
 <body>
 
-<div>
-Access our catalog online or download the [pdf file](/assets/ruftex-final.pdf)
-</div>
 
 <!-- Header -->
 <header id="header">
@@ -22,13 +19,17 @@ Access our catalog online or download the [pdf file](/assets/ruftex-final.pdf)
 	</h1>
 	<h2>{{ site.description-en }}</h2>
 	<p></p>
+	<p>{{ site.catalog-en }}</p>
+  <p></p>
 	<p>{{ site.mailing-en }}</p>
 </header>
 
 <!-- Signup Form -->
 <form id="signup-form" method="post" action="https://formspree.io/hi@sufni.eu">
-	<input type="email" name="email" id="email" placeholder="Email Address" />
-	<input type="submit" value="Sign Up" />
+	<input type="text" name="name" id="name" placeholder="Name" />
+  <input type="email" name="email" id="email" placeholder="Email Address" />
+  <input type="longtext" name="message" id="message" placeholder="Message" />
+	<input type="submit" value="Submit" />
 </form>
 
 

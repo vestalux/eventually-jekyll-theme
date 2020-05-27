@@ -1,12 +1,12 @@
 # Site settings
 title: RUFTEX
 email: hello@sufnitextil.eu
-description-en: Workwear for ROUGH environments.
-description-hu: Munkaruha a KEMÉNY helyekre.
-mailing-en: Get in touch for more information.
-mailing-hu: További információért lépjen velünk kapcsolatba.
-catalog-en: Our <a href="http://ruftex.eu/ruftex-final.html">catalog</a> is available online and in <a href="http://ruftex.eu/assets/ruftex-final.pdf">pdf</a> format.
-catalog-hu: <a href="http://ruftex.eu/ruftex-final.html">Katalógusunk</a> elérhető online és letölthető <a href="http://ruftex.eu/assets/ruftex-final.pdf">pdf</a> formátumban.
+description-en: Professional sewing services.
+description-hu: Profi varrodai szolgáltatások.
+mailing-en: Bérvarrás sportruházattól lakástextilekig.
+mailing-hu: Sewing contractor for sportswear, hometextiles and many more.
+catalog-en: Get in touch for more information.
+catalog-hu: További információért lépjen velünk kapcsolatba.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://ruftex.eu" # the base hostname & protocol for your site
 
